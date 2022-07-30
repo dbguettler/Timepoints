@@ -1,0 +1,199 @@
+{
+  "route_name": "Route 52 (Weekend)",
+  "data": {
+    "4220044": {
+      "name": "Scott Hall - Platform A",
+      "departures": [
+        {
+          "hour": 8,
+          "minute": 47
+        },
+        {
+          "hour": 9,
+          "minute": 22
+        },
+        {
+          "hour": 9,
+          "minute": 57
+        },
+        {
+          "hour": 10,
+          "minute": 32
+        },
+        {
+          "hour": 11,
+          "minute": 7
+        },
+        {
+          "hour": 11,
+          "minute": 42
+        },
+        {
+          "hour": 12,
+          "minute": 17
+        },
+        {
+          "hour": 12,
+          "minute": 52
+        },
+        {
+          "hour": 13,
+          "minute": 27
+        },
+        {
+          "hour": 14,
+          "minute": 2
+        },
+        {
+          "hour": 14,
+          "minute": 37
+        },
+        {
+          "hour": 15,
+          "minute": 12
+        },
+        {
+          "hour": 15,
+          "minute": 47
+        },
+        {
+          "hour": 16,
+          "minute": 22
+        },
+        {
+          "hour": 16,
+          "minute": 57
+        },
+        {
+          "hour": 17,
+          "minute": 32
+        },
+        {
+          "hour": 18,
+          "minute": 7
+        },
+        {
+          "hour": 18,
+          "minute": 42
+        },
+        {
+          "hour": 19,
+          "minute": 17
+        },
+        {
+          "hour": 19,
+          "minute": 52
+        },
+        {
+          "hour": 20,
+          "minute": 27
+        },
+        {
+          "hour": 21,
+          "minute": 2
+        },
+        {
+          "hour": 21,
+          "minute": 37
+        }
+      ]
+    },
+    "4220096": {
+      "name": "Gorman St at Kings Ct",
+      "departures": [
+        {
+          "hour": 8,
+          "minute": 30
+        },
+        {
+          "hour": 9,
+          "minute": 5
+        },
+        {
+          "hour": 9,
+          "minute": 40
+        },
+        {
+          "hour": 10,
+          "minute": 15
+        },
+        {
+          "hour": 10,
+          "minute": 50
+        },
+        {
+          "hour": 11,
+          "minute": 25
+        },
+        {
+          "hour": 12,
+          "minute": 0
+        },
+        {
+          "hour": 12,
+          "minute": 35
+        },
+        {
+          "hour": 13,
+          "minute": 10
+        },
+        {
+          "hour": 13,
+          "minute": 45
+        },
+        {
+          "hour": 14,
+          "minute": 20
+        },
+        {
+          "hour": 14,
+          "minute": 55
+        },
+        {
+          "hour": 15,
+          "minute": 30
+        },
+        {
+          "hour": 16,
+          "minute": 5
+        },
+        {
+          "hour": 16,
+          "minute": 40
+        },
+        {
+          "hour": 17,
+          "minute": 15
+        },
+        {
+          "hour": 17,
+          "minute": 50
+        },
+        {
+          "hour": 18,
+          "minute": 25
+        },
+        {
+          "hour": 19,
+          "minute": 0
+        },
+        {
+          "hour": 19,
+          "minute": 35
+        },
+        {
+          "hour": 20,
+          "minute": 10
+        },
+        {
+          "hour": 20,
+          "minute": 45
+        },
+        {
+          "hour": 21,
+          "minute": 20
+        }
+      ]
+    }
+  }
+}
