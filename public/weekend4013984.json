@@ -1,0 +1,296 @@
+{
+  "route_name": "Route 41",
+  "data": {
+    "4221642": {
+      "name": "College of Textiles",
+      "departures": [
+        {
+          "hour": 8,
+          "minute": 46
+        },
+        {
+          "hour": 9,
+          "minute": 21
+        },
+        {
+          "hour": 9,
+          "minute": 56
+        },
+        {
+          "hour": 10,
+          "minute": 31
+        },
+        {
+          "hour": 11,
+          "minute": 6
+        },
+        {
+          "hour": 11,
+          "minute": 41
+        },
+        {
+          "hour": 12,
+          "minute": 16
+        },
+        {
+          "hour": 12,
+          "minute": 51
+        },
+        {
+          "hour": 13,
+          "minute": 26
+        },
+        {
+          "hour": 14,
+          "minute": 1
+        },
+        {
+          "hour": 14,
+          "minute": 36
+        },
+        {
+          "hour": 15,
+          "minute": 11
+        },
+        {
+          "hour": 15,
+          "minute": 46
+        },
+        {
+          "hour": 16,
+          "minute": 21
+        },
+        {
+          "hour": 16,
+          "minute": 56
+        },
+        {
+          "hour": 17,
+          "minute": 31
+        },
+        {
+          "hour": 18,
+          "minute": 6
+        },
+        {
+          "hour": 18,
+          "minute": 41
+        },
+        {
+          "hour": 19,
+          "minute": 16
+        },
+        {
+          "hour": 19,
+          "minute": 51
+        },
+        {
+          "hour": 20,
+          "minute": 26
+        },
+        {
+          "hour": 21,
+          "minute": 1
+        },
+        {
+          "hour": 21,
+          "minute": 36
+        }
+      ]
+    },
+    "4221560": {
+      "name": "Scott Hall - Platform B",
+      "departures": [
+        {
+          "hour": 8,
+          "minute": 30
+        },
+        {
+          "hour": 9,
+          "minute": 5
+        },
+        {
+          "hour": 9,
+          "minute": 40
+        },
+        {
+          "hour": 10,
+          "minute": 15
+        },
+        {
+          "hour": 10,
+          "minute": 50
+        },
+        {
+          "hour": 11,
+          "minute": 25
+        },
+        {
+          "hour": 12,
+          "minute": 0
+        },
+        {
+          "hour": 12,
+          "minute": 35
+        },
+        {
+          "hour": 13,
+          "minute": 10
+        },
+        {
+          "hour": 13,
+          "minute": 45
+        },
+        {
+          "hour": 14,
+          "minute": 20
+        },
+        {
+          "hour": 14,
+          "minute": 55
+        },
+        {
+          "hour": 15,
+          "minute": 30
+        },
+        {
+          "hour": 16,
+          "minute": 5
+        },
+        {
+          "hour": 16,
+          "minute": 40
+        },
+        {
+          "hour": 17,
+          "minute": 15
+        },
+        {
+          "hour": 17,
+          "minute": 50
+        },
+        {
+          "hour": 18,
+          "minute": 25
+        },
+        {
+          "hour": 19,
+          "minute": 0
+        },
+        {
+          "hour": 19,
+          "minute": 35
+        },
+        {
+          "hour": 20,
+          "minute": 10
+        },
+        {
+          "hour": 20,
+          "minute": 45
+        },
+        {
+          "hour": 21,
+          "minute": 20
+        }
+      ]
+    },
+    "4245970": {
+      "name": "Morrill Dr at Carmichael Gym",
+      "departures": [
+        {
+          "hour": 8,
+          "minute": 38
+        },
+        {
+          "hour": 9,
+          "minute": 13
+        },
+        {
+          "hour": 9,
+          "minute": 48
+        },
+        {
+          "hour": 10,
+          "minute": 23
+        },
+        {
+          "hour": 10,
+          "minute": 58
+        },
+        {
+          "hour": 11,
+          "minute": 33
+        },
+        {
+          "hour": 12,
+          "minute": 8
+        },
+        {
+          "hour": 12,
+          "minute": 43
+        },
+        {
+          "hour": 13,
+          "minute": 18
+        },
+        {
+          "hour": 13,
+          "minute": 53
+        },
+        {
+          "hour": 14,
+          "minute": 28
+        },
+        {
+          "hour": 15,
+          "minute": 3
+        },
+        {
+          "hour": 15,
+          "minute": 38
+        },
+        {
+          "hour": 16,
+          "minute": 13
+        },
+        {
+          "hour": 16,
+          "minute": 48
+        },
+        {
+          "hour": 17,
+          "minute": 23
+        },
+        {
+          "hour": 17,
+          "minute": 58
+        },
+        {
+          "hour": 18,
+          "minute": 33
+        },
+        {
+          "hour": 19,
+          "minute": 8
+        },
+        {
+          "hour": 19,
+          "minute": 43
+        },
+        {
+          "hour": 20,
+          "minute": 18
+        },
+        {
+          "hour": 20,
+          "minute": 53
+        },
+        {
+          "hour": 21,
+          "minute": 28
+        }
+      ]
+    }
+  }
+}
