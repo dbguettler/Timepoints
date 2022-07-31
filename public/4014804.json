@@ -1,0 +1,380 @@
+{
+  "route_name": "Route 20",
+  "data": {
+    "4258716": {
+      "name": "Barbour Dr/Spring Hill Lot",
+      "departures": [
+        {
+          "hour": 7,
+          "minute": 7
+        },
+        {
+          "hour": 7,
+          "minute": 37
+        },
+        {
+          "hour": 8,
+          "minute": 7
+        },
+        {
+          "hour": 8,
+          "minute": 37
+        },
+        {
+          "hour": 9,
+          "minute": 7
+        },
+        {
+          "hour": 9,
+          "minute": 37
+        },
+        {
+          "hour": 10,
+          "minute": 7
+        },
+        {
+          "hour": 10,
+          "minute": 37
+        },
+        {
+          "hour": 11,
+          "minute": 7
+        },
+        {
+          "hour": 11,
+          "minute": 37
+        },
+        {
+          "hour": 12,
+          "minute": 7
+        },
+        {
+          "hour": 12,
+          "minute": 37
+        },
+        {
+          "hour": 13,
+          "minute": 7
+        },
+        {
+          "hour": 13,
+          "minute": 37
+        },
+        {
+          "hour": 14,
+          "minute": 7
+        },
+        {
+          "hour": 14,
+          "minute": 37
+        },
+        {
+          "hour": 15,
+          "minute": 7
+        },
+        {
+          "hour": 15,
+          "minute": 37
+        },
+        {
+          "hour": 16,
+          "minute": 7
+        },
+        {
+          "hour": 16,
+          "minute": 37
+        },
+        {
+          "hour": 17,
+          "minute": 7
+        },
+        {
+          "hour": 17,
+          "minute": 37
+        },
+        {
+          "hour": 18,
+          "minute": 7
+        },
+        {
+          "hour": 18,
+          "minute": 37
+        },
+        {
+          "hour": 19,
+          "minute": 7
+        },
+        {
+          "hour": 19,
+          "minute": 37
+        },
+        {
+          "hour": 20,
+          "minute": 7
+        },
+        {
+          "hour": 20,
+          "minute": 37
+        },
+        {
+          "hour": 21,
+          "minute": 7
+        },
+        {
+          "hour": 21,
+          "minute": 37
+        }
+      ]
+    },
+    "4245970": {
+      "name": "Morrill Dr at Carmichael Gym",
+      "departures": [
+        {
+          "hour": 7,
+          "minute": 17
+        },
+        {
+          "hour": 7,
+          "minute": 47
+        },
+        {
+          "hour": 8,
+          "minute": 17
+        },
+        {
+          "hour": 8,
+          "minute": 47
+        },
+        {
+          "hour": 9,
+          "minute": 17
+        },
+        {
+          "hour": 9,
+          "minute": 47
+        },
+        {
+          "hour": 10,
+          "minute": 17
+        },
+        {
+          "hour": 10,
+          "minute": 47
+        },
+        {
+          "hour": 11,
+          "minute": 17
+        },
+        {
+          "hour": 11,
+          "minute": 47
+        },
+        {
+          "hour": 12,
+          "minute": 17
+        },
+        {
+          "hour": 12,
+          "minute": 47
+        },
+        {
+          "hour": 13,
+          "minute": 17
+        },
+        {
+          "hour": 13,
+          "minute": 47
+        },
+        {
+          "hour": 14,
+          "minute": 17
+        },
+        {
+          "hour": 14,
+          "minute": 47
+        },
+        {
+          "hour": 15,
+          "minute": 17
+        },
+        {
+          "hour": 15,
+          "minute": 47
+        },
+        {
+          "hour": 16,
+          "minute": 17
+        },
+        {
+          "hour": 16,
+          "minute": 47
+        },
+        {
+          "hour": 17,
+          "minute": 17
+        },
+        {
+          "hour": 17,
+          "minute": 47
+        },
+        {
+          "hour": 18,
+          "minute": 17
+        },
+        {
+          "hour": 18,
+          "minute": 47
+        },
+        {
+          "hour": 19,
+          "minute": 17
+        },
+        {
+          "hour": 19,
+          "minute": 47
+        },
+        {
+          "hour": 20,
+          "minute": 17
+        },
+        {
+          "hour": 20,
+          "minute": 47
+        },
+        {
+          "hour": 21,
+          "minute": 17
+        },
+        {
+          "hour": 21,
+          "minute": 47
+        }
+      ]
+    },
+    "4221642": {
+      "name": "College of Textiles",
+      "departures": [
+        {
+          "hour": 7,
+          "minute": 29
+        },
+        {
+          "hour": 7,
+          "minute": 59
+        },
+        {
+          "hour": 8,
+          "minute": 29
+        },
+        {
+          "hour": 8,
+          "minute": 59
+        },
+        {
+          "hour": 9,
+          "minute": 29
+        },
+        {
+          "hour": 9,
+          "minute": 59
+        },
+        {
+          "hour": 10,
+          "minute": 29
+        },
+        {
+          "hour": 10,
+          "minute": 59
+        },
+        {
+          "hour": 11,
+          "minute": 29
+        },
+        {
+          "hour": 11,
+          "minute": 59
+        },
+        {
+          "hour": 12,
+          "minute": 29
+        },
+        {
+          "hour": 12,
+          "minute": 59
+        },
+        {
+          "hour": 13,
+          "minute": 29
+        },
+        {
+          "hour": 13,
+          "minute": 59
+        },
+        {
+          "hour": 14,
+          "minute": 29
+        },
+        {
+          "hour": 14,
+          "minute": 59
+        },
+        {
+          "hour": 15,
+          "minute": 29
+        },
+        {
+          "hour": 15,
+          "minute": 59
+        },
+        {
+          "hour": 16,
+          "minute": 29
+        },
+        {
+          "hour": 16,
+          "minute": 59
+        },
+        {
+          "hour": 17,
+          "minute": 29
+        },
+        {
+          "hour": 17,
+          "minute": 59
+        },
+        {
+          "hour": 18,
+          "minute": 29
+        },
+        {
+          "hour": 18,
+          "minute": 59
+        },
+        {
+          "hour": 19,
+          "minute": 29
+        },
+        {
+          "hour": 19,
+          "minute": 59
+        },
+        {
+          "hour": 20,
+          "minute": 29
+        },
+        {
+          "hour": 20,
+          "minute": 59
+        },
+        {
+          "hour": 21,
+          "minute": 29
+        },
+        {
+          "hour": 21,
+          "minute": 59
+        }
+      ]
+    }
+  }
+}
