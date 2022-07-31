@@ -1,0 +1,375 @@
+{
+  "route_name": "Route 42",
+  "data": {
+    "4221628": {
+      "name": "Gorman St at Kings Ct (outbound)",
+      "departures": [
+        {
+          "hour": 7,
+          "minute": 15
+        },
+        {
+          "hour": 7,
+          "minute": 35
+        },
+        {
+          "hour": 7,
+          "minute": 55
+        },
+        {
+          "hour": 8,
+          "minute": 15
+        },
+        {
+          "hour": 8,
+          "minute": 35
+        },
+        {
+          "hour": 8,
+          "minute": 55
+        },
+        {
+          "hour": 9,
+          "minute": 15
+        },
+        {
+          "hour": 9,
+          "minute": 35
+        },
+        {
+          "hour": 9,
+          "minute": 55
+        },
+        {
+          "hour": 10,
+          "minute": 15
+        },
+        {
+          "hour": 10,
+          "minute": 35
+        },
+        {
+          "hour": 10,
+          "minute": 55
+        },
+        {
+          "hour": 11,
+          "minute": 15
+        },
+        {
+          "hour": 11,
+          "minute": 35
+        },
+        {
+          "hour": 11,
+          "minute": 55
+        },
+        {
+          "hour": 12,
+          "minute": 15
+        },
+        {
+          "hour": 12,
+          "minute": 35
+        },
+        {
+          "hour": 12,
+          "minute": 55
+        },
+        {
+          "hour": 13,
+          "minute": 15
+        },
+        {
+          "hour": 13,
+          "minute": 35
+        },
+        {
+          "hour": 13,
+          "minute": 55
+        },
+        {
+          "hour": 14,
+          "minute": 15
+        },
+        {
+          "hour": 14,
+          "minute": 35
+        },
+        {
+          "hour": 14,
+          "minute": 55
+        },
+        {
+          "hour": 15,
+          "minute": 15
+        },
+        {
+          "hour": 15,
+          "minute": 35
+        },
+        {
+          "hour": 15,
+          "minute": 55
+        },
+        {
+          "hour": 16,
+          "minute": 15
+        },
+        {
+          "hour": 16,
+          "minute": 35
+        },
+        {
+          "hour": 16,
+          "minute": 55
+        },
+        {
+          "hour": 17,
+          "minute": 15
+        },
+        {
+          "hour": 17,
+          "minute": 35
+        },
+        {
+          "hour": 17,
+          "minute": 55
+        },
+        {
+          "hour": 18,
+          "minute": 15
+        },
+        {
+          "hour": 18,
+          "minute": 35
+        },
+        {
+          "hour": 18,
+          "minute": 55
+        },
+        {
+          "hour": 19,
+          "minute": 15
+        },
+        {
+          "hour": 19,
+          "minute": 35
+        },
+        {
+          "hour": 19,
+          "minute": 55
+        },
+        {
+          "hour": 20,
+          "minute": 15
+        },
+        {
+          "hour": 20,
+          "minute": 35
+        },
+        {
+          "hour": 20,
+          "minute": 55
+        },
+        {
+          "hour": 21,
+          "minute": 15
+        },
+        {
+          "hour": 21,
+          "minute": 35
+        },
+        {
+          "hour": 21,
+          "minute": 55
+        }
+      ]
+    },
+    "4221642": {
+      "name": "College of Textiles",
+      "departures": [
+        {
+          "hour": 7,
+          "minute": 5
+        },
+        {
+          "hour": 7,
+          "minute": 25
+        },
+        {
+          "hour": 7,
+          "minute": 45
+        },
+        {
+          "hour": 8,
+          "minute": 5
+        },
+        {
+          "hour": 8,
+          "minute": 25
+        },
+        {
+          "hour": 8,
+          "minute": 45
+        },
+        {
+          "hour": 9,
+          "minute": 5
+        },
+        {
+          "hour": 9,
+          "minute": 25
+        },
+        {
+          "hour": 9,
+          "minute": 45
+        },
+        {
+          "hour": 10,
+          "minute": 5
+        },
+        {
+          "hour": 10,
+          "minute": 25
+        },
+        {
+          "hour": 10,
+          "minute": 45
+        },
+        {
+          "hour": 11,
+          "minute": 5
+        },
+        {
+          "hour": 11,
+          "minute": 25
+        },
+        {
+          "hour": 11,
+          "minute": 45
+        },
+        {
+          "hour": 12,
+          "minute": 5
+        },
+        {
+          "hour": 12,
+          "minute": 25
+        },
+        {
+          "hour": 12,
+          "minute": 45
+        },
+        {
+          "hour": 13,
+          "minute": 5
+        },
+        {
+          "hour": 13,
+          "minute": 25
+        },
+        {
+          "hour": 13,
+          "minute": 45
+        },
+        {
+          "hour": 14,
+          "minute": 5
+        },
+        {
+          "hour": 14,
+          "minute": 25
+        },
+        {
+          "hour": 14,
+          "minute": 45
+        },
+        {
+          "hour": 15,
+          "minute": 5
+        },
+        {
+          "hour": 15,
+          "minute": 25
+        },
+        {
+          "hour": 15,
+          "minute": 45
+        },
+        {
+          "hour": 16,
+          "minute": 5
+        },
+        {
+          "hour": 16,
+          "minute": 25
+        },
+        {
+          "hour": 16,
+          "minute": 45
+        },
+        {
+          "hour": 17,
+          "minute": 5
+        },
+        {
+          "hour": 17,
+          "minute": 25
+        },
+        {
+          "hour": 17,
+          "minute": 45
+        },
+        {
+          "hour": 18,
+          "minute": 5
+        },
+        {
+          "hour": 18,
+          "minute": 25
+        },
+        {
+          "hour": 18,
+          "minute": 45
+        },
+        {
+          "hour": 19,
+          "minute": 5
+        },
+        {
+          "hour": 19,
+          "minute": 25
+        },
+        {
+          "hour": 19,
+          "minute": 45
+        },
+        {
+          "hour": 20,
+          "minute": 5
+        },
+        {
+          "hour": 20,
+          "minute": 25
+        },
+        {
+          "hour": 20,
+          "minute": 45
+        },
+        {
+          "hour": 21,
+          "minute": 5
+        },
+        {
+          "hour": 21,
+          "minute": 25
+        },
+        {
+          "hour": 21,
+          "minute": 45
+        }
+      ]
+    }
+  }
+}
