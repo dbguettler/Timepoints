@@ -1,0 +1,11 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  },
+  "scripts": {
+    "clean": "rm output/*"
+  }
+}
