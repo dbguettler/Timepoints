@@ -6,6 +6,7 @@
     "minimist": "^1.2.6"
   },
   "scripts": {
-    "clean": "rm ./output/* ./input/*"
+    "clean": "rm ./output/*",
+    "clear-data": "rm ./input/*"
   }
 }
